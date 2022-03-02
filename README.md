@@ -20,4 +20,5 @@ Currently, as you'll see if you explore my projects, I have been focused on lear
 
 # Contact
 Email || arshiaafirouzi@gmail.com
+
 LinkedIn || https://www.linkedin.com/in/arshiafirouzi/
