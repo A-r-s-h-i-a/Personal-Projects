@@ -13,4 +13,4 @@ I have carried out many other projects, but they are not included here for a var
 * Genetic Algorithm || A genetic algorithm approach (with NEAT) to OpenAI Gym's MountainCar environment
 * Computer Vision || A variety of computer vision supervised learning solutions to datasets like CIFAR, MNIST, etc.
 * Neural Network from Scratch || A custom neural network, with the neurons, backpropagation function, etc. built from the ground up
-* Audio Classification || A system which builds Mel Spectrograms of urban and instrumental sounds, then classifies
+* Audio Classification || A system which builds Mel Spectrograms of urban and instrumental sounds, then classifies them
