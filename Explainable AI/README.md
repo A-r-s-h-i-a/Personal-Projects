@@ -4,4 +4,4 @@ Here the Randomized Input Sampling for Explanation (RISE) algorithm is employed 
 # Result
 [RISE VGG16 4K-Masks Apple.png]
 
-![RISE-VGG](https://github.com/A-r-s-h-i-a/Personal-Projects/edit/main/Explainable%20AI/RISE VGG16 4K-Masks Apple.png)
+![RISE-VGG](https://github.com/A-r-s-h-i-a/Personal-Projects/blob/main/Explainable%20AI/RISE%20VGG16%204K-Masks%20Apple.png)
