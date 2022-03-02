@@ -9,8 +9,8 @@ This repository holds many of my personal projects since 2020, projects I starte
 
 I have carried out many other projects, but they are not included here for a variety of reasons including a lack of flair. These other projects include:
 
-*Spiking Neurons || DQN, OpenAI Gym's CartPole environment
-*Genetic Algorithm || GA for OpenAI Gym's MountainCar Environment
-*Computer Vision || CIFAR/MNIST, Supervised Learning
-*Neural Network from Scratch || Neurons & Associated Training Functions
-*Audio Classification || Urban Sound & Instrument Classification, Mel Spectrograms, FFT, CNN/BN
+* Spiking Neurons || DQN, OpenAI Gym's CartPole environment
+* Genetic Algorithm || GA for OpenAI Gym's MountainCar Environment
+* Computer Vision || CIFAR/MNIST, Supervised Learning
+* Neural Network from Scratch || Neurons & Associated Training Functions
+* Audio Classification || Urban Sound & Instrument Classification, Mel Spectrograms, FFT, CNN/BN
