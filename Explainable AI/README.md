@@ -5,4 +5,6 @@ Here the Randomized Input Sampling for Explanation (RISE) algorithm is employed 
 ![RISE-VGG](https://github.com/A-r-s-h-i-a/Personal-Projects/blob/main/Explainable%20AI/RISE%20VGG16%204K-Masks%20Apple.png)
 ![RISE-VGG](https://github.com/A-r-s-h-i-a/Personal-Projects/blob/main/Explainable%20AI/RISE%20VGG16%204K-Masks%20Lemon.png)
 ![RISE-VGG](https://github.com/A-r-s-h-i-a/Personal-Projects/blob/main/Explainable%20AI/RISE%20VGG16%204K-Masks%20Coil.png)
-![RISE-VGG](https://github.com/A-r-s-h-i-a/Personal-Projects/blob/main/Explainable%20AI/RISE%20VGG16%204K-Masks%20Apple.png)
+
+:-------------------------:|:-------------------------:
+![RISE-VGG](https://github.com/A-r-s-h-i-a/Personal-Projects/blob/main/Explainable%20AI/RISE%20VGG16%204K-Masks%20Apple.png)  |  ![RISE-VGG](https://github.com/A-r-s-h-i-a/Personal-Projects/blob/main/Explainable%20AI/RISE%20VGG16%204K-Masks%20Lemon.png)
