@@ -3,3 +3,13 @@ Deep Q Networks (DQN) use a Neural Network (NN) to learn a policy, replacing "Q 
 
 # Results
 
+![Training Results]()
+
+Untrained Model:
+
+https://user-images.githubusercontent.com/46332063/156497697-18e04ef1-fce8-45ff-8dba-86768b5911ff.mp4
+
+Trained Model:
+
+https://user-images.githubusercontent.com/46332063/156497684-6e5ef31c-3f56-4896-a569-f1c491adb114.mp4
+
