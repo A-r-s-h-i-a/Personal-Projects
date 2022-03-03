@@ -9,9 +9,9 @@ This repository holds many of my personal projects since 2020, projects I starte
 7. Random Forest from Scratch || A random forest algorithm, with the decision tree object and associated methods built from the ground up
 
 I have carried out many other projects, but they are not included here for a variety of reasons including a lack of flair. A few of these other projects include:
-* Spiking Neurons || A custom spiking neuron implementation of the DQN algorithm, applied to OpenAI Gym's CartPole environment
+* Spiking Neurons  &nbsp;|| A custom spiking neuron implementation of the DQN algorithm, applied to OpenAI Gym's CartPole environment
 * Genetic Algorithm || A genetic algorithm approach (with NEAT) to OpenAI Gym's MountainCar environment
-* Computer Vision || A variety of computer vision supervised learning solutions to datasets like CIFAR, MNIST, etc.
+* Computer Vision  &nbsp;|| A variety of computer vision supervised learning solutions to datasets like CIFAR, MNIST, etc.
 * Audio Classification || A system which builds Mel Spectrograms of urban and instrumental sounds, then classifies them
 
 # Background
