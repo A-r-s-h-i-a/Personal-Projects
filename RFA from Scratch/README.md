@@ -3,4 +3,4 @@ Here a Random Forest Algorithm (RFA) is implemented from scratch, everything fro
 
 # Results
 This RFA implementation performed with around 80% accuracy.
-![Wine Quality Estimator] ()
+![Wine Quality Estimator] (https://github.com/A-r-s-h-i-a/Personal-Projects/blob/main/RFA%20from%20Scratch/RFA%20Results.png)
