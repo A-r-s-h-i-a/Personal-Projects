@@ -1,5 +1,5 @@
 # Personal-Projects
-This repository holds many of my personal projects since 2020, projects I started and finished with the ultimate goal of expanding my skills as a software engineer. Nearly all of these are Artificial Intelligence/Machine Learning projects, written in Python with Tensorflow. There are five projects currently:
+This repository holds many of my personal projects since 2020, projects I started and finished with the ultimate goal of expanding my skills as a software engineer. Nearly all of these are Artificial Intelligence/Machine Learning projects, written in Python with Tensorflow. There are currently seven:
 1. Music Generation || A sequence model (LSTM) which generates melodies
 2. Face Tracking || A script utilizing OpenCV (Haar Cascade Classifier) to identify and track faces from video streams
 3. Explainable AI || A complement to an agent, an algorithm (RISE, XAI) which sheds light on the reasoning behind its decisions
