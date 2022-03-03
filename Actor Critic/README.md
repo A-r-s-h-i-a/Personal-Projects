@@ -4,9 +4,8 @@ The Actor Critic algorithm is a temporal difference, policy-gradient reinforceme
 # Results
 ![Training Results](https://github.com/A-r-s-h-i-a/Personal-Projects/blob/main/Actor%20Critic/Alpha3e-5_Gamma99e-1_SOLVED.png)
 
-
-
-
-
+Untrained:
 https://user-images.githubusercontent.com/46332063/156494588-19d8138e-d42c-4518-8b91-0caa0afb375b.mp4
 
+Trained:
+https://user-images.githubusercontent.com/46332063/156494650-bbdaca63-785a-4ea9-aa31-d5711dee2c29.mp4
