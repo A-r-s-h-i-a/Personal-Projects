@@ -5,3 +5,7 @@ The dataset used is purposefully missing from this directory, but it can all be 
 
 # Result
 [Sample Audio Output](https://github.com/A-r-s-h-i-a/Personal-Projects/blob/main/Music%20Generation/PolyphonicArchitecture_Test1.mp3)
+
+
+https://user-images.githubusercontent.com/46332063/156494861-c14ba73b-0610-4920-8a8f-7412be07daed.mp4
+
