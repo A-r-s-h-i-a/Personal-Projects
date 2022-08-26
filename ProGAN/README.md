@@ -4,3 +4,4 @@ NVIDIA's ProGAN technique was tested here on generating low-quality human faces.
 # Results
 ![ProGAN](https://github.com/A-r-s-h-i-a/Personal-Projects/blob/main/ProGAN/32x32-1.png)
 ![ProGAN](https://github.com/A-r-s-h-i-a/Personal-Projects/blob/main/ProGAN/32x32-2.png)
+![ProGAN](https://github.com/A-r-s-h-i-a/Personal-Projects/blob/main/ProGAN/individualImage.png)
