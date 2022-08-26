@@ -3,7 +3,7 @@ This project was the development of a DCGAN to generate human-like, handwritten 
 
 # Results
 Epoch 0, Batch 0:
-!(https://github.com/A-r-s-h-i-a/Personal-Projects/blob/main/DCGAN/Epoch0_Batch0.png)
+![DCGAN](https://github.com/A-r-s-h-i-a/Personal-Projects/blob/main/DCGAN/Epoch0_Batch0.png)
 
 Epoch 4, Batch 240:
-!(https://github.com/A-r-s-h-i-a/Personal-Projects/blob/main/DCGAN/Epoch4_Batch240.png)
+![DCGAN](https://github.com/A-r-s-h-i-a/Personal-Projects/blob/main/DCGAN/Epoch4_Batch240.png)
