@@ -9,7 +9,7 @@ This repository holds many of my personal projects since 2020, projects I starte
 7. Random Forest from Scratch || A random forest algorithm, with the decision tree object and associated methods built from the ground up
 8. Deep Convolutional GAN || A GAN which incorporates CNN layers into its architecture to improve its image generation
 9. Progressive GAN || A GAN training technique whereby the GAN is initialized as ineffective, and as it trains, is expanded/grown for training speed & stability
-10. Instagram Bot || A ProGAN generating images of human faces, and posting them to Instagram to assess quality
+10. Instagram Bot || A ProGAN developed to generate images of human faces, and post them to Instagram to assess quality
 
 I have carried out many other projects, but they are not included here for a variety of reasons including a lack of flair. A few of these other projects include:
 * Spiking Neurons  &nbsp; || A custom spiking neuron implementation of the DQN algorithm, applied to OpenAI Gym's CartPole environment
