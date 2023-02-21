@@ -1,5 +1,5 @@
 # Face Generation & IG Toolage
-This project created a ProGAN model for generating human faces. It then proceeded to post these images on Instagram with various captions, the goal being to judge quality through human feedback. Outside of ML algorithms, tools were developed to open and operate internet browsers, login/logout of instagram, and more.
+This project created a ProGAN model for generating human faces. It then proceeded to post these images on Instagram with various captions, the goal being to judge quality through human feedback. Outside of ML algorithms, tools were developed to open and operate internet browsers, login/logout of instagram, and more. The relevant instagram account has been retired.
 
 
 
