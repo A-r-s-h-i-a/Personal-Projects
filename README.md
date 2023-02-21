@@ -1,5 +1,5 @@
 # Personal-Projects
-This repository holds many of my personal projects since 2020, projects I started and finished with the ultimate goal of expanding my skills as a software engineer. Nearly all of these are Artificial Intelligence/Machine Learning projects, written in Python with Tensorflow. There are currently nine:
+This repository holds many of my personal projects since 2020, projects I started and finished with the ultimate goal of expanding my skills as a software engineer. Nearly all of these are Artificial Intelligence/Machine Learning projects, written in Python with Tensorflow. There are currently ten:
 1. Music Generation || A sequence model (LSTM) which generates melodies
 2. Face Tracking || A script utilizing OpenCV (Haar Cascade Classifier) to identify and track faces from video streams
 3. Explainable AI || An algorithm (RISE, XAI) which sheds light on the reasoning behind an AI agent's decision-making
@@ -9,6 +9,7 @@ This repository holds many of my personal projects since 2020, projects I starte
 7. Random Forest from Scratch || A random forest algorithm, with the decision tree object and associated methods built from the ground up
 8. Deep Convolutional GAN || A GAN which incorporates CNN layers into its architecture to improve its image generation
 9. Progressive GAN || A GAN training technique whereby the GAN is initialized as ineffective, and as it trains, is expanded/grown for training speed & stability
+10. Instagram Bot || A ProGAN generating images of human faces, and posting them to Instagram to assess quality
 
 I have carried out many other projects, but they are not included here for a variety of reasons including a lack of flair. A few of these other projects include:
 * Spiking Neurons  &nbsp; || A custom spiking neuron implementation of the DQN algorithm, applied to OpenAI Gym's CartPole environment
